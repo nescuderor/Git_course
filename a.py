@@ -1,5 +1,5 @@
 import pandas as pd
 a = range(10, 20)
+b = range(0, 10)
 
-for i, j in range(0, 10), a:
-	print(i, j)
+print(a * b)
